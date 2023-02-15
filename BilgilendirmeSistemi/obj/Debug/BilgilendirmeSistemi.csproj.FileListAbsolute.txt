@@ -1,0 +1,17 @@
+C:\Users\aybuk\source\repos\BilgilendirmeSistemi\BilgilendirmeSistemi\bin\Debug\BilgilendirmeSistemi.exe.config
+C:\Users\aybuk\source\repos\BilgilendirmeSistemi\BilgilendirmeSistemi\bin\Debug\BilgilendirmeSistemi.exe
+C:\Users\aybuk\source\repos\BilgilendirmeSistemi\BilgilendirmeSistemi\bin\Debug\BilgilendirmeSistemi.pdb
+C:\Users\aybuk\source\repos\BilgilendirmeSistemi\BilgilendirmeSistemi\obj\Debug\BilgilendirmeSistemi.csproj.AssemblyReference.cache
+C:\Users\aybuk\source\repos\BilgilendirmeSistemi\BilgilendirmeSistemi\obj\Debug\BilgilendirmeSistemi.Form1.resources
+C:\Users\aybuk\source\repos\BilgilendirmeSistemi\BilgilendirmeSistemi\obj\Debug\BilgilendirmeSistemi.OgrenciNotlar.resources
+C:\Users\aybuk\source\repos\BilgilendirmeSistemi\BilgilendirmeSistemi\obj\Debug\BilgilendirmeSistemi.Properties.Resources.resources
+C:\Users\aybuk\source\repos\BilgilendirmeSistemi\BilgilendirmeSistemi\obj\Debug\BilgilendirmeSistemi.csproj.GenerateResource.cache
+C:\Users\aybuk\source\repos\BilgilendirmeSistemi\BilgilendirmeSistemi\obj\Debug\BilgilendirmeSistemi.csproj.CoreCompileInputs.cache
+C:\Users\aybuk\source\repos\BilgilendirmeSistemi\BilgilendirmeSistemi\obj\Debug\BilgilendirmeSistemi.exe
+C:\Users\aybuk\source\repos\BilgilendirmeSistemi\BilgilendirmeSistemi\obj\Debug\BilgilendirmeSistemi.pdb
+C:\Users\aybuk\source\repos\BilgilendirmeSistemi\BilgilendirmeSistemi\obj\Debug\BilgilendirmeSistemi.FrmOgretmen.resources
+C:\Users\aybuk\source\repos\BilgilendirmeSistemi\BilgilendirmeSistemi\obj\Debug\BilgilendirmeSistemi.FrmDersler.resources
+C:\Users\aybuk\source\repos\BilgilendirmeSistemi\BilgilendirmeSistemi\obj\Debug\BilgilendirmeSistemi.FrmKulup.resources
+C:\Users\aybuk\source\repos\BilgilendirmeSistemi\BilgilendirmeSistemi\obj\Debug\BilgilendirmeSistemi.FrmOgretmenDetay.resources
+C:\Users\aybuk\source\repos\BilgilendirmeSistemi\BilgilendirmeSistemi\obj\Debug\BilgilendirmeSistemi.FrmOgrenciDetay.resources
+C:\Users\aybuk\source\repos\BilgilendirmeSistemi\BilgilendirmeSistemi\obj\Debug\BilgilendirmeSistemi.FrmNotlar.resources
